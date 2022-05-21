@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 21 May 2022 19:42:01 at https://igc-aircon.com/dealer/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://igc-aircon.com/dealer/ -O1 "D:\Programming\httrack mirror\igc" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:42:25	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://igc-aircon.com/dealer/)
+19:42:54	Error: 	"Not Found" (404) at link https://igc-aircon.com/bitrix/js/ui/polyfill/closest/js/closest.js (from https://igc-aircon.com/dealer/)
+19:42:54	Error: 	"Not Found" (404) at link https://igc-aircon.com/bitrix/js/main/lazyload/dist/lazyload.bundle.css (from https://igc-aircon.com/dealer/)
+19:42:54	Error: 	"Not Found" (404) at link https://igc-aircon.com/dealer/POST (from https://igc-aircon.com/dealer/)
+19:42:54	Error: 	"Not Found" (404) at link https://igc-aircon.com/local/templates/centino-heat_s2/img/list-primary.png (from https://igc-aircon.com/local/templates/centino-heat_s2/css/theme-elements.min.css?15933478633335)
+19:42:54	Error: 	"Not Found" (404) at link https://igc-aircon.com/local/templates/centino-heat_s2/css/mCSB_buttons.png (from https://igc-aircon.com/local/templates/centino-heat_s2/css/jquery.mCustomScrollbar.min.css?159334786342839)
+19:42:55	Warning: 	File not parsed, looks like binary: https://igc-aircon.com/local/templates/centino-heat_s2/css/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+19:42:55	Error: 	"Not Found" (404) at link https://igc-aircon.com/local/templates/centino-heat_s2/images/svg/Burger_mask.svg (from https://igc-aircon.com/local/templates/centino-heat_s2/template_styles.css?16388689721016592)
+19:42:55	Error: 	"Not Found" (404) at link https://igc-aircon.com/local/templates/centino-heat_s2/images/svg/burger_white.svg (from https://igc-aircon.com/local/templates/centino-heat_s2/template_styles.css?16388689721016592)
+19:42:55	Error: 	"Not Found" (404) at link https://igc-aircon.com/local/templates/centino-heat_s2/images/svg/Search_mask.svg (from https://igc-aircon.com/local/templates/centino-heat_s2/template_styles.css?16388689721016592)
+19:42:55	Error: 	"Not Found" (404) at link https://igc-aircon.com/local/templates/centino-heat_s2/images/svg/Search_white.svg (from https://igc-aircon.com/local/templates/centino-heat_s2/template_styles.css?16388689721016592)
+19:42:55	Error: 	"Not Found" (404) at link https://igc-aircon.com/local/templates/centino-heat_s2/images/svg/Basket_mask.svg (from https://igc-aircon.com/local/templates/centino-heat_s2/template_styles.css?16388689721016592)
+19:42:55	Error: 	"Not Found" (404) at link https://igc-aircon.com/local/templates/centino-heat_s2/images/svg/Basket_white.svg (from https://igc-aircon.com/local/templates/centino-heat_s2/template_styles.css?16388689721016592)
+19:42:55	Error: 	"Not Found" (404) at link https://igc-aircon.com/local/templates/centino-heat_s2/images/svg/social/Vk_mask.svg (from https://igc-aircon.com/local/templates/centino-heat_s2/template_styles.css?16388689721016592)
+19:42:55	Error: 	"Not Found" (404) at link https://igc-aircon.com/local/templates/centino-heat_s2/images/svg/social/Facebook_mask.svg (from https://igc-aircon.com/local/templates/centino-heat_s2/template_styles.css?16388689721016592)
+19:42:55	Error: 	"Not Found" (404) at link https://igc-aircon.com/local/templates/centino-heat_s2/images/svg/social/Twitter_mask.svg (from https://igc-aircon.com/local/templates/centino-heat_s2/template_styles.css?16388689721016592)
+19:42:55	Error: 	"Not Found" (404) at link https://igc-aircon.com/local/templates/centino-heat_s2/images/svg/social/Instagram_mask.svg (from https://igc-aircon.com/local/templates/centino-heat_s2/template_styles.css?16388689721016592)
+19:42:55	Error: 	"Not Found" (404) at link https://igc-aircon.com/local/templates/centino-heat_s2/images/svg/social/Telegram_mask.svg (from https://igc-aircon.com/local/templates/centino-heat_s2/template_styles.css?16388689721016592)
+19:42:55	Error: 	"Not Found" (404) at link https://igc-aircon.com/local/templates/centino-heat_s2/images/svg/social/Youtube_mask.svg (from https://igc-aircon.com/local/templates/centino-heat_s2/template_styles.css?16388689721016592)
+19:42:55	Error: 	"Not Found" (404) at link https://igc-aircon.com/local/templates/centino-heat_s2/images/svg/social/Odnoklassniki_mask.svg (from https://igc-aircon.com/local/templates/centino-heat_s2/template_styles.css?16388689721016592)
+19:42:55	Error: 	"Not Found" (404) at link https://igc-aircon.com/local/templates/centino-heat_s2/images/svg/social/Googleplus_mask.svg (from https://igc-aircon.com/local/templates/centino-heat_s2/template_styles.css?16388689721016592)
+19:42:55	Error: 	"Not Found" (404) at link https://igc-aircon.com/local/templates/centino-heat_s2/images/svg/social/Mailru_mask.svg (from https://igc-aircon.com/local/templates/centino-heat_s2/template_styles.css?16388689721016592)
+19:42:55	Error: 	"Not Found" (404) at link https://igc-aircon.com/local/templates/centino-heat_s2/images/search_lupe.png (from https://igc-aircon.com/local/templates/centino-heat_s2/template_styles.css?16388689721016592)
+19:42:55	Error: 	"Not Found" (404) at link https://igc-aircon.com/local/templates/centino-heat_s2/images/fader.png (from https://igc-aircon.com/local/templates/centino-heat_s2/template_styles.css?16388689721016592)
+19:42:55	Error: 	"Not Found" (404) at link https://igc-aircon.com/local/templates/centino-heat_s2/images/main_images.png (from https://igc-aircon.com/local/templates/centino-heat_s2/template_styles.css?16388689721016592)
+19:42:55	Error: 	"Not Found" (404) at link https://igc-aircon.com/local/templates/centino-heat_s2/css/images/filter/x.png (from https://igc-aircon.com/local/templates/centino-heat_s2/template_styles.css?16388689721016592)
+
+HTTrack Website Copier/3.49-2 mirror complete in 54 seconds : 200 links scanned, 174 files written (6353660 bytes overall) [6485353 bytes received at 120099 bytes/sec], 5139719 bytes transferred using HTTP compression in 73 files, ratio 24%, 22.3 requests per connection
+(25 errors, 1 warnings, 0 messages)

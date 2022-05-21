@@ -1,0 +1,21 @@
+<svg id="cart_empty" xmlns="http://www.w3.org/2000/svg" width="90" height="90" viewBox="0 0 90 90">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #969ba5;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="Circle" class="cls-1" cx="45" cy="45" r="44"/>
+  <circle id="Circle-2" data-name="Circle" class="cls-1" cx="37" cy="58" r="5"/>
+  <circle id="Circle-3" data-name="Circle" class="cls-1" cx="54" cy="58" r="5.031"/>
+  <path id="Circle-4" data-name="Circle" class="cls-2" d="M31,33H63L57,48H33L30.675,33.034,23,23"/>
+</svg>

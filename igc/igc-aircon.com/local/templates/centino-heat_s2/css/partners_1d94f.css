@@ -1,0 +1,228 @@
+.ctm-ab-partner, .ctm-ab-partner-info {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between
+}
+
+.ctm-ab-partner {
+    padding-top: 80px;
+    padding-bottom: 90px
+}
+
+.ctm-ab-partner-info {
+    max-width: 340px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start
+}
+
+.ctm-ab-partner-info h2, .ctm-ab-partner-info p {
+    font-size: 30px;
+    line-height: 1.1666666667;
+    color: #000;
+    margin: 0 0 36px;
+    font-weight: 400
+}
+
+.ctm-ab-partner-info p {
+    font-size: 15px;
+    line-height: 1.2;
+    margin: 0 0 18px
+}
+
+.ctm-ab-partner-info p:last-of-type {
+    margin: 0
+}
+
+.ctm-ab-partner-info .btn {
+    margin: 75px 0 0
+}
+
+.ctm-ab-partner-advantages, .ctm-ab-partner-advantages-and-slogan {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    width: 100%
+}
+
+.ctm-ab-partner-advantages-and-slogan {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin-left: 120px
+}
+
+.ctm-ab-partner-advantages {
+    height: inherit
+}
+
+.ctm-ab-partner-advantage {
+    width: calc(25% - 20px);
+    margin-left: 20px;
+    text-align: center;
+    -ms-flex-negative: 0;
+    flex-shrink: 0
+}
+
+.ctm-ab-partner-advantage:first-child {
+    margin-left: 0
+}
+
+.ctm-ab-partner-advantage__name {
+    display: block;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    line-height: 1.15;
+    font-weight: 400;
+    font-style: normal;
+    color: #000;
+    text-transform: uppercase;
+    margin-bottom: 32px
+}
+
+.ctm-ab-partner-advantage__cover {
+    border-radius: 2px;
+    background-color: #ddd;
+    width: 100%;
+    padding-top: 23px;
+    padding-bottom: 23px
+}
+
+.ctm-ab-partner-advantage__cover-image {
+    display: block;
+    width: 100%;
+    height: 100%;
+    max-width: 92px;
+    max-height: 92px;
+    margin: 0 auto
+}
+
+.ctm-ab-partner-advantage__description {
+    display: block;
+    margin-top: 32px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    line-height: 1.2;
+    font-weight: 400;
+    font-style: normal;
+    color: #000;
+    text-align: center
+}
+
+.ctm-ab-partner-slogan {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    color: #35d3b7;
+    text-transform: uppercase;
+    font-size: 20px;
+    line-height: 1.15;
+    border: 2px solid #35d3b7;
+    width: 100%;
+    height: 67px;
+    margin-top: 50px;
+    text-align: center
+}
+
+@media screen and (max-width: 640px) {
+    .ctm-ab-partner-advantage {
+        width: 100% !important;
+        margin-left: 0 !important
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .ctm-ab-partner {
+        padding-left: 16px;
+        padding-right: 16px
+    }
+}
+
+@media screen and (max-width: 960px) {
+    .ctm-ab-partner {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center
+    }
+
+    .ctm-ab-partner-advantages-and-slogan {
+        margin-left: 0 !important
+    }
+
+    .ctm-ab-partner-info {
+        max-width: 100% !important;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        text-align: center;
+        margin-bottom: 60px
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .ctm-ab-partner-advantages {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap
+    }
+
+    .ctm-ab-partner-advantage {
+        width: calc(50% - 10px);
+        margin-left: 0;
+        margin-bottom: 48px
+    }
+
+    .ctm-ab-partner-advantage:nth-child(2n) {
+        margin-left: 20px
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .ctm-ab-partner-info .btn {
+        margin: 50px 0 0
+    }
+
+    .ctm-ab-partner-advantage__description {
+        font-size: 13px;
+        margin-top: 18px
+    }
+}
+
+@media screen and (max-width: 1410px) {
+    .ctm-ab-partner-advantages-and-slogan {
+        margin-left: 60px
+    }
+
+    .ctm-ab-partner-advantage__name {
+        font-family: "Roboto", sans-serif;
+        font-size: 14px;
+        line-height: 1.1428571429;
+        font-weight: 400;
+        font-style: normal;
+        margin-bottom: 18px
+    }
+}

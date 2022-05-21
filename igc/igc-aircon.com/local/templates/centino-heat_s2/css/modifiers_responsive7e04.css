@@ -1,0 +1,115 @@
+/* LARGE - MORE THEN 1200px */
+
+@media(min-width: 1200px) {
+	.flex-row-lg {display: flex;flex-direction: row;}
+	.flex-row-hc-lg {display: flex;flex-direction: row;justify-content: center;}
+	.flex-row-vc-lg {display: flex;flex-direction: row;align-items: center;}
+	.flex-row-c-lg {display: flex;flex-direction: row;align-items: center;justify-content: center;}
+
+	.flex-column-lg {display: flex;flex-direction: column;}
+	.flex-column-hc-lg {display: flex;flex-direction: row;align-items: center;}
+	.flex-column-vc-lg {display: flex;flex-direction: row;justify-content: center;}
+	.flex-column-c-lg {display: flex;flex-direction: row;align-items: center;justify-content: center;}
+
+	.fs-9-lg {font-size: 0.6em;}
+	.fs-10-lg {font-size: 0.667em;}
+	.fs-11-lg {font-size: 0.7335em;}
+	.fs-12-lg {font-size: 0.8em;}
+	.fs-13-lg {font-size: 0.8667em;}
+	.fs-14-lg {font-size: 0.9335em;}
+	.fs-15-lg {font-size: 1em;}
+	.fs-16-lg {font-size: 1.0667em;}
+	.fs-17-lg {font-size: 1.1335em;}
+	.fs-18-lg {font-size: 1.2em;}
+	.fs-19-lg {font-size: 1.2667em;}
+	.fs-20-lg {font-size: 1.3335em;}
+	.fs-21-lg {font-size: 1.4em;}
+	.fs-30-lg {font-size: 2em;}
+}
+
+/* MEDIUM - 992px - 1200px */
+
+@media(min-width: 992px){
+	.flex-row-md {display: flex;flex-direction: row;}
+	.flex-row-hc-md {display: flex;flex-direction: row;justify-content: center;}
+	.flex-row-vc-md {display: flex;flex-direction: row;align-items: center;}
+	.flex-row-c-md {display: flex;flex-direction: row;align-items: center;justify-content: center;}
+
+	.flex-column-md {display: flex;flex-direction: column;}
+	.flex-column-hc-md {display: flex;flex-direction: row;align-items: center;}
+	.flex-column-vc-md {display: flex;flex-direction: row;justify-content: center;}
+	.flex-column-c-md {display: flex;flex-direction: row;align-items: center;justify-content: center;}
+
+	.fs-9-md  {font-size: 0.6em;}
+	.fs-10-md {font-size: 0.667em;}
+	.fs-11-md {font-size: 0.7335em;}
+	.fs-12-md {font-size: 0.8em;}
+	.fs-13-md {font-size: 0.8667em;}
+	.fs-14-md {font-size: 0.9335em;}
+	.fs-15-md {font-size: 1em;}
+	.fs-16-md {font-size: 1.0667em;}
+	.fs-17-md {font-size: 1.1335em;}
+	.fs-18-md {font-size: 1.2em;}
+	.fs-19-md {font-size: 1.2667em;}
+	.fs-20-md {font-size: 1.3335em;}
+	.fs-21-md {font-size: 1.4em;}
+	.fs-30-md {font-size: 2em;}
+}
+
+/* SMALL - LESS THEN 992px */
+
+@media(max-width: 991px) {
+	.flex-row-sm {display: flex;flex-direction: row;}
+	.flex-row-hc-sm {display: flex;flex-direction: row;justify-content: center;}
+	.flex-row-vc-sm {display: flex;flex-direction: row;align-items: center;}
+	.flex-row-c-sm {display: flex;flex-direction: row;align-items: center;justify-content: center;}
+
+	.flex-column-sm {display: flex;flex-direction: column;}
+	.flex-column-hc-sm {display: flex;flex-direction: row;align-items: center;}
+	.flex-column-vc-sm {display: flex;flex-direction: row;justify-content: center;}
+	.flex-column-c-sm {display: flex;flex-direction: row;align-items: center;justify-content: center;}
+
+	.fs-9-sm  {font-size: 0.6em;}
+	.fs-10-sm {font-size: 0.667em;}
+	.fs-11-sm {font-size: 0.7335em;}
+	.fs-12-sm {font-size: 0.8em;}
+	.fs-13-sm {font-size: 0.8667em;}
+	.fs-14-sm {font-size: 0.9335em;}
+	.fs-15-sm {font-size: 1em;}
+	.fs-16-sm {font-size: 1.0667em;}
+	.fs-17-sm {font-size: 1.1335em;}
+	.fs-18-sm {font-size: 1.2em;}
+	.fs-19-sm {font-size: 1.2667em;}
+	.fs-20-sm {font-size: 1.3335em;}
+	.fs-21-sm {font-size: 1.4em;}
+	.fs-30-sm {font-size: 2em;}
+}
+
+/* EXTRA SMALL - LESS THEN 768px */
+
+@media(max-width: 767px) {
+	.flex-row-xs {display: flex;flex-direction: row;}
+	.flex-row-hc-xs {display: flex;flex-direction: row;justify-content: center;}
+	.flex-row-vc-xs {display: flex;flex-direction: row;align-items: center;}
+	.flex-row-c-xs {display: flex;flex-direction: row;align-items: center;justify-content: center;}
+
+	.flex-column-xs {display: flex;flex-direction: column;}
+	.flex-column-hc-xs {display: flex;flex-direction: row;align-items: center;}
+	.flex-column-vc-xs {display: flex;flex-direction: row;justify-content: center;}
+	.flex-column-c-xs {display: flex;flex-direction: row;align-items: center;justify-content: center;}
+
+	.fs-9-xs  {font-size: 0.6em;}
+	.fs-10-xs {font-size: 0.667em;}
+	.fs-11-xs {font-size: 0.7335em;}
+	.fs-12-xs {font-size: 0.8em;}
+	.fs-13-xs {font-size: 0.8667em;}
+	.fs-14-xs {font-size: 0.9335em;}
+	.fs-15-xs {font-size: 1em;}
+	.fs-16-xs {font-size: 1.0667em;}
+	.fs-17-xs {font-size: 1.1335em;}
+	.fs-18-xs {font-size: 1.2em;}
+	.fs-19-xs {font-size: 1.2667em;}
+	.fs-20-xs {font-size: 1.3335em;}
+	.fs-21-xs {font-size: 1.4em;}
+	.fs-30-xs {font-size: 2em;}
+}

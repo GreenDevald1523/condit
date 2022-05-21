@@ -1,0 +1,21 @@
+<svg id="Спрайт" xmlns="http://www.w3.org/2000/svg" width="38" height="56" viewBox="0 0 38 56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7a7c7f;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Ellipse_13_copy" data-name="Ellipse 13 copy" class="cls-1" d="M11.5,46C9.035,46,5,39.09,5,35.5a6.5,6.5,0,0,1,13,0C18,39.09,14.027,46,11.5,46Zm0-15A4.5,4.5,0,0,0,7,35.5c0,2.485,3.046,8.5,4.5,8.5,1.485,0,4.5-6.015,4.5-8.5A4.5,4.5,0,0,0,11.5,31Z" transform="translate(-5 -5)"/>
+  <path class="cls-1" d="M6,5H18a1,1,0,0,1,1,1V23a1,1,0,0,1-1,1H6a1,1,0,0,1-1-1V6A1,1,0,0,1,6,5ZM7,7H17V22H7V7Zm4,10h2v2H11V17Z" transform="translate(-5 -5)"/>
+  <path class="cls-1" d="M18,61H6a1,1,0,0,1-1-1V52a1,1,0,0,1,1-1H18a1,1,0,0,1,1,1v8A1,1,0,0,1,18,61Zm-6-2L7,54v5h5ZM8.766,53L12,56.234,15.234,53M17,54l-5,5h5" transform="translate(-5 -5)"/>
+  <path id="Rounded_Rectangle_1_copy" data-name="Rounded Rectangle 1 copy" class="cls-2" d="M42.719,6.68l-7,7.022a0.987,0.987,0,0,1-1.4,0l-3.039-3.05a0.991,0.991,0,0,1,1.4-1.4l2.34,2.348,6.3-6.32A0.991,0.991,0,0,1,42.719,6.68Z" transform="translate(-5 -5)"/>
+</svg>

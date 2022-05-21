@@ -1,0 +1,17 @@
+
+
+.INFOBLOCK_INDEX .item-views .item { min-height: 500px; }
+
+body.index .CATALOG_SECTIONS_INDEX { background: #F6F7FA; border-top: 1px solid #e5e6e8; border-bottom: 1px solid #e5e6e8;  }
+body.index .CATALOG_SECTIONS_INDEX .item.section_item { background: #fff; }
+
+.SLIDER_INDEX .slider_mainpage_2 {     margin: 20px -16px; }
+
+body.index .partners.front .flexslider .slides > li img { max-width: 120px; }
+
+.sections_wrapper .list .item:hover {box-shadow: 0px 0px 11px 0px rgba(0, 0, 0, 0.10);}
+
+
+
+.top-block .maxwidth-theme .top_menu_wrapper .slogan .top-description.color-888  { color: rgba(0,0,0,0.7); } 
+body.header_opacity header.light .top-block .top-description.color-888 div { color: rgba(255,255,255,0.8) !important; }
